@@ -1,14 +1,14 @@
-## Your GitHub Learning Lab Repository for Intro to HTML
+## HTML 简介的 GitHub 学习实验室存储库
 
-Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+欢迎来到您的 GitHub 学习实验室课程的存储库。这个存储库将在我将指导您完成的不同活动中使用。
 
-Oh! I haven't introduced myself...
+哦！我还没自我介绍...
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+我是 GitHub 学习实验室机器人，我在这里帮助指导您学习和掌握本课程中涵盖的各种主题。我将使用 Issue 和 Pull Request 评论与您交流。事实上，我已经添加了一个问题供您查看。
 
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
-I'll meet you over there, can't wait to get started!
+我们在那边见，等不及要开始了!
 
-This repository is licensed under [MIT](LICENSE) (c) 2019 GitHub, Inc.
+此存储库是根据[ MIT ](LICENSE)(c)2019 GitHub，Inc. 授权的。
 Photo by [Kelli Tungay](https://unsplash.com/photos/Sj0nhVIb4eY) on [Unsplash](https://unsplash.com/)
